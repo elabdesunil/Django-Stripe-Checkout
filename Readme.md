@@ -24,6 +24,8 @@
 
 ![final-work](django-stripe-checkout.gif)
 
+The tutorial assumes that you have a good understanding of a bit of Javascript( specially AJAX fetch and handling promise), good grasp of python and django, and little understanding of HTML and CSS.
+
 ## Test my repo
 
 ```cmd
