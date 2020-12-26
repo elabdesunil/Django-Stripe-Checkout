@@ -618,3 +618,7 @@ We can add [endpoint](https://dashboard.stripe.com/test/webhooks) only when we d
 
 The API keys have been hardcoded for this work. But in production we would want to store those variables in environment. Event domain url would be stored in an environment variable like `domain_url`.
 Another thing is that I have used a separate settings file called `user_settings.py` in `djangostripe/` to hard code these secret keys and client ids. I have import this file somewhere at the bottom in `djangostripe/settings.py`.
+
+Thanks to [TestDrive.io](https://testdriven.io/blog/django-stripe-tutorial/) for a great tutorial.
+Discuss ideas at [here](https://github.com/sunilale0/Django-Stripe-Checkout/discussions).
+Report issues at [here](https://github.com/sunilale0/Django-Stripe-Checkout/issues).
